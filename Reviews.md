@@ -1,0 +1,3 @@
+  * [BR-Mac](http://br-mac.org/2011/02/rudix-pacotes-gnu-e-para-unix-adicionais-para-o-mac/): Rudix: pacotes GNU e para UNIX adicionais para o Mac. Positive review.
+  * [Tuaw](http://www.tuaw.com/2010/05/04/rudix-a-lightweight-way-to-add-new-unix-utilities/): Rudix, a lightweight way to add new Unix utilities. Positive review.
+  * [The Michigan Telephone blog](http://michigantelephone.wordpress.com/2008/03/25/how-to-install-midnight-commander-under-mac-os-x-the-easy-way-using-rudix/): How to install Midnight Commander under Mac OS X (the easy way, using Rudix). Positive and negative review.
